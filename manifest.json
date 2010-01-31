@@ -1,0 +1,13 @@
+{
+  "name": "Desaturated",
+  "version": "1.0",
+  "description": "Minimalist gray-and-default-blue theme",
+  "theme": {
+    "images": {
+      "theme_button_background": "images/button_background.png",
+      "theme_frame": "images/frame.png",
+      "theme_tab_background": "images/tab_background.png",
+      "theme_toolbar": "images/toolbar.png"
+    }
+  }
+}
