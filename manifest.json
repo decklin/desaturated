@@ -8,6 +8,10 @@
       "theme_frame": "images/frame.png",
       "theme_tab_background": "images/tab_background.png",
       "theme_toolbar": "images/toolbar.png"
+    },
+    "colors" : {
+      "frame" : [132, 145, 172],
+      "toolbar" : [227, 227, 227]
     }
   }
 }
